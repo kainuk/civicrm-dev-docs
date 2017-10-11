@@ -170,6 +170,7 @@ pages:
     - hook_civicrm_eventDiscount: hooks/hook_civicrm_eventDiscount.md
     - hook_civicrm_export: hooks/hook_civicrm_export.md
     - hook_civicrm_fileSearches: hooks/hook_civicrm_fileSearches.md
+    - hook_civicrm_generateIdentifier: hooks/hook_civicrm_generateIdentifier.md
     - hook_civicrm_geocoderFormat: hooks/hook_civicrm_geocoderFormat.md
     - hook_civicrm_import: hooks/hook_civicrm_import.md
     - hook_civicrm_membershipTypeValues: hooks/hook_civicrm_membershipTypeValues.md

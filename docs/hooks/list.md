@@ -143,6 +143,7 @@ This is an overview list of all available hooks, listed by category.
 * **[hook_civicrm_eventDiscount](/hooks/hook_civicrm_eventDiscount.md)** - allows you to apply a customized discount to an event registration.
 * **[hook_civicrm_export](/hooks/hook_civicrm_export.md)** - allows to manipulate or change the output of CSV during export.
 * **[hook_civicrm_fileSearches](/hooks/hook_civicrm_fileSearches.md)** - allows you to add a reference to a file search service (e.g. Solr).
+* **[hook_civicrm_generateIdentifier](/hooks/hook_civicrm_generateIdentifier.md)** - allows you to generate custom external identifiers (for contacts, invoices and campaigns).
 * **[hook_civicrm_geocoderFormat](/hooks/hook_civicrm_geocoderFormat.md)** - allows you to manipulate the Address object during geocoding, for instance to extract additional fields from the geocoder's returned XML.
 * **[hook_civicrm_import](/hooks/hook_civicrm_import.md)** - called after contacts have been imported into the system, and before the temp import table has been destroyed.
 * **[hook_civicrm_membershipTypeValues](/hooks/hook_civicrm_membershipTypeValues.md)** - called when composing the array of membership types and their costs during a membership registration (new or renewal).
