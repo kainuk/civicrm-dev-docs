@@ -60,6 +60,7 @@ changing between the old and new data.
     -   CustomGroup
     -   'Campaign' (from 4.6)
     -   'EntityTag' (from 4.7.16)
+    -   'Website'
 
 **
 
